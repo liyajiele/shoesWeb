@@ -1,0 +1,67 @@
+.lyj_aboutnavrtspul{
+	height: auto;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.lyj_aboutnavrtspul li{
+	height: 200px;
+	width: 198px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+.lyj_aboutnavrtspul li img{
+	height: 145px;
+	width: 205px;
+	float: left;
+	margin: 0;
+}
+.lyj_aboutnavrtspul li p{
+	height: 20px;
+    width: 100%;
+    display: block;
+    line-height: 20px;
+    font-size: 12px;
+    float: left;
+    margin-top: 10px;
+    letter-spacing: 0;
+}
+.lyj_aboutnavrtspul h1{
+	height: 30px;
+	width: 100%;
+	line-height:30px;
+	text-align: center;
+	border-bottom: 1px solid #CCCCCC;
+	color: #666666;
+}
+.lyj_aboutnavrtspul .lyj_tuimg{
+	text-align: center;
+	margin: 0 auto;
+}
+.lyj_tuimgxiao{
+	margin-left: -40px;
+}
+.lyj_productpage{
+	height:100px;
+	width: 100%;
+	float: left;
+}
+.lyj_aboutnavrtspuld{
+	padding-top: 10px;
+    color: #797979;
+    font-size: 12px;
+    padding-bottom: 20px;
+    height: auto;
+}
+.lyj_aboutnavrtspuld p{
+	height: 20px;
+    line-height: 20px;
+    text-align: left;
+    font-size: 12px;
+    margin-top: 0px;
+}
+.lyj_aboutnavrtspuld span{
+	font-size: 12px;
+    color: #666;
+}
+

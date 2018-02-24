@@ -1,0 +1,38 @@
+.lyj_message{
+	height: auto;
+	width: 100%;
+	padding: 25px;
+}
+.lyj_message table{
+	height: auto;
+	width: 100%;
+	margin: 0 auto;
+}
+.lyj_message tr{
+	height: 50px;
+	line-height: 50px;
+	font-size: 14px;
+	color: #444444;
+}
+.lyj_message td{
+	height: 50px;
+	line-height: 50px;
+	width: 30px;
+}
+.lyj_message td input{
+	border: 0px;
+	border-bottom: 1px solid #ccc;
+	width: 300px;
+	background: none;
+}
+.lyj_message td textarea{
+	height: 100px;
+	width: 300px;
+	background: none;
+}
+.lyj_message .lyj_td{
+	height: 28px;
+	width: 134px;
+	background: url(../img/gbook.png) no-repeat;
+	content: none;
+}

@@ -1,0 +1,11 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,li,input{
+	margin:0;
+	padding: 0;
+	list-style: none;/*清除列表上的小圆点*/
+	font-family: Arial,"微软雅黑","宋体";
+	font-size:12px;
+}
+a{
+	color: #333;
+	text-decoration: none;
+}

@@ -1,0 +1,26 @@
+.lyj_ditu{
+	height: auto;
+	width: 90%;
+	margin:0 auto;
+}
+.lyj_ditu h1{
+	color: #666666;
+	font-size: 14px;
+    margin-top: 30px;
+	height: 20px;
+	line-height: 20px;
+	font-weight: normal;
+}
+.lyj_ditua{
+	color: #666666;
+	font-size: 12px;
+    margin-top: 5px;
+	height: 20px;
+	line-height: 20px;
+}
+.lyj_ditub{
+	height: 200px;
+	width:100%;
+	border: 1px solid #CCCCCC;
+	margin-bottom: 50px;
+}

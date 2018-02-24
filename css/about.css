@@ -1,0 +1,136 @@
+/*图片*/
+.lyj_aboutbox{
+	height: 304px;
+	width:100%;
+	float: left;
+	background: #1a1a1a;
+}
+.lyj_about{
+	height:304px;
+	width: 100%;
+	background: url(../img/zy_ban.png) no-repeat center;
+}
+.lyj_aboutimg{
+	height: 304px;
+	width: 100%;
+	background: url(../img/zy_banner.png) no-repeat center;
+}
+/*图片*/
+/*介绍*/
+.lyj_aboutnavbox{
+	height:auto;
+	width: 100%;
+	float: left;
+	padding-top: 10px;
+	background: #1a1a1a;
+}
+.lyj_aboutnav{
+	width: 1015px;
+	height: auto;
+	margin: 0 auto;
+}
+.lyj_aboutnavl{
+	width: 232px;
+    float: left;
+    background: url(../img/sub.png) no-repeat left top;
+    height: 527px;
+    z-index: 1;
+    float: left;
+}
+.lyj_aboutnavl ul{
+	padding-top: 85px;
+    padding-bottom: 30px;
+}
+.lyj_aboutnavl ul li{
+	width: 232px;
+    height: 43px;
+    text-align: center;
+    line-height: 34px;
+    background: url(../img/ub.png) no-repeat 0 34px;
+}
+.lyj_aboutnavl li a{
+	width: 232px;
+	height: 43px;
+	display: block;
+    color: #8e8b8a;	
+}
+.lyj_aboutnavl li a:hover{
+	width: 232px;
+	height: 43px;
+	background: url(../img/sub_hover.png) ;
+	color:#491304; 
+	font-size:16px;
+}
+.lyj_aboutnavr{
+	height: auto;
+	width:765px;
+	float: right;
+	background: url(../img/right_bg.png);
+}
+.lyj_aboutnavrt{
+	height:39px;
+	width: 100%;
+	margin-top: 12px;
+	background: #000000;
+	opacity: 0.8;
+}
+.lyj_aboutnavrt span{
+	float: left;
+    padding-left: 19px;
+    font-size: 14px;
+    color: #f1f1f1;
+    margin-top: 10px;
+    font-weight: normal;
+    float: left;
+}
+.lyj_aboutnavrt b{
+	font-size: 10px;
+    color: #7d7d7d;
+    padding-left: 5px; 
+}
+.lyj_aboutnavrtt{
+	height: 100%;
+	width: 100px;
+	float: right;
+	padding-top: 10px;
+	color: #dadada;
+	
+}
+.lyj_aboutnavrts{
+	height:auto;
+	width: 90%;
+	margin-top: 20px;
+	margin: 0 auto;
+}
+.lyj_aboutnavrts p{
+	height: 60px;
+	font-size: 24px;
+	width: 100%;
+	text-align: center;
+	line-height:60px;
+	color:#666666;
+	margin-top: 30px;
+	letter-spacing:2px;
+}
+.lyj_aboutnavrts p span{
+	font-size: 32px;
+	color: #E53333;
+}
+.lyj_aboutnavrtsa,.lyj_aboutnavrtsb{
+	color:#666666;
+	font-size: 12px;
+	height:auto;
+	width: 100%;
+	line-height: 2.5;
+}
+.lyj_aboutnavrts h4{
+	color: #E53333;
+	font-size: 24px;
+	font-weight: normal;
+	margin-top: 20px;
+}
+.lyj_aboutnavrts img{
+	margin-top: 20px;
+	margin-bottom: 40px;
+	
+}
